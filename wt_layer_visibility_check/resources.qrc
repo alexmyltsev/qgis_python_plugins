@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/wt_layer_visibility_check" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
